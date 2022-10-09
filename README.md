@@ -18,6 +18,10 @@
   <img align="center" alt="israel-c" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" />
   <img align="center" alt="israel-r" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
   <img align="center" alt="israel-r" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+ </div>
+  
+  <div> 
+    ![Snake animation]("https://github.com/israeloliveira/israeloliveira/blob/output/github-contribution-grid-snake.svg")
   </div>
                                                                                                                                  
   
