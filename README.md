@@ -20,5 +20,4 @@
   <img align="center" alt="israel-r" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
  </div>
   
-  <                                                                                                                    
-  
+                                                                                                                  
