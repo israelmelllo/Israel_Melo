@@ -1,8 +1,11 @@
-*Olá!!! Eu sou a Israel Oliveira*
+<div align="center">
+<h2> Olá !!! Seja bem vindo , Eu sou a Israel Oliveira</h2>
+</div>
+</br>
 
-👨‍💻 Atuando na área de suporte técnico , onde presto serviço a usuário e infraestrutura 
-🎓 Formado em Gestão da Tecnologia da Informação pela Unipê
-🌱 Sigo me especializando na área de Business Inteligence ( Inteligência de Negócios) 
+👨‍💻 Atuando como técnico de suporte a usuário e infraestrutura <br />
+🎓 Formado em Gestão da Tecnologia da Informação <br />
+🌱 Sigo me especializando na área de Business Inteligence ( Inteligência de Negócios) <br />
 
 <div align="center">
   <a href="https://github.com/israel_oliveira">
@@ -20,4 +23,5 @@
   <img align="right" alt="israel-r" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
  </div>
   
+  ![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
                                                                                                                   
