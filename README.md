@@ -1,11 +1,11 @@
 <div align="center">
-<h2> Olá, Seja bem vindo ! Eu sou a Israel Melo</h2>
+<h2> Hello, welcome ! I am Israel Melo</h2>
 </div>
 </br>
 
-👨‍💻 Atuando como técnico de suporte a usuário e infraestrutura <br />
-🎓 Formado em Gestão da Tecnologia da Informação <br />
-🌱 Sigo me especializando na área de Business Inteligence ( Inteligência de Negócios) <br />
+👨‍💻 Acting as user support and infrastructure technician <br />
+🎓 Degree in Information Technology Management <br />
+🌱 I continue to specialize in the area of Business Intelligence (Business Intelligence) <br />
 
 <div align="center">
   <a href="https://github.com/israel_oliveira">
